@@ -1,3 +1,21 @@
+# user-registration
+(Frontend React Project)
+
+It is assumed that a recent version of Node.js is installed.
+  
+Download user-registration directory to your local machine. The user-registration app was created with command:
+  npx create-react-app user-registration
+
+To verify the dependencies run command:
+  npm install
+  
+To start the project run command:
+  npm run start
+
+The default browser will open User Registration Form.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
